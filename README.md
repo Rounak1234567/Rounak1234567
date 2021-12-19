@@ -40,7 +40,10 @@
 <a href = 'https://www.twitter.com/https://twitter.com/mojumder_rounak'> <img width = '32px' align= 'center' margin-left= "10 px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <a href = 'https://www.github.com/Rounak/1234567'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
-
+ 
+ <h2> My Github Stats </h2>
+  
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rounak1234567&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
