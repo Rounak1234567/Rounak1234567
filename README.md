@@ -8,7 +8,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Rounak/1234567.Rounak/1234567)
 
 </p>
-<div size='20px'> Hi! My name is Rounak Mojumder. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> Rounak Mojumder, a dedicated Full Stack Web developer based in India, with a specialized skill set that enables me to build robust web applications. I am adept in both front-end and back-end and have an eye for performance and accuracy. :smile: 
 </div>
 
 <h2> About Me </h2>
