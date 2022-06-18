@@ -2,7 +2,7 @@
 <img width="100%" height = "250px" src="https://as2.ftcdn.net/v2/jpg/02/18/72/73/500_F_218727336_yFWOEXi4dqc01tCWSNZg2JSa0TPHtz4h.jpg" alt="cover" />
 </div>
 
-<h1> Hello Fellow < Developers/ >! </h1><br/>
+<h1> Hello Fellow < Developers/ >! </h1><br/><br/>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Rounak/1234567.Rounak/1234567)
