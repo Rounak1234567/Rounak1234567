@@ -2,19 +2,16 @@
 <img width="100%" height = "250px" src="https://as2.ftcdn.net/v2/jpg/02/18/72/73/500_F_218727336_yFWOEXi4dqc01tCWSNZg2JSa0TPHtz4h.jpg" alt="cover" />
 </div>
 
-<h1> Hello Fellow < Developers/ >! </h1><br/><br/>
+<h1> Hello Fellow < Developers/ >! </h1>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Rounak/1234567.Rounak/1234567)
 
 </p>
 <div size='20px'> Rounak Mojumder, a dedicated Full Stack Web developer based in India, with a specialized skill set that enables me to build robust web applications. I am adept in both front-end and back-end and have an eye for performance and accuracy. :smile: 
-</div><br/>
+</div>
 
 <h2> About Me </h2>
-
-
-
 
 
 - 🌱 I’m currently learning Full Stack Web Development
